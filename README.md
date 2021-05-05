@@ -12,6 +12,8 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 
 **Google Cloud Storage Options:**  https://cloud.google.com/compute/docs/disks/
 
+**Google Cloud Storage Flowchart:**  https://link.medium.com/X3InelXH0fb
+
 **BigQuery under the hood:** https://cloud.google.com/blog/products/bigquery/bigquery-under-the-hood
 
 **Site Reliability Engineering (SRE):**    https://sre.google/
