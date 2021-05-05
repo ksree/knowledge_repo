@@ -6,6 +6,7 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 
 **OSI Netoworking model, great explanation:**  https://www.youtube.com/watch?v=vv4y_uOneC0
 
+**Types of Storage:** https://blog.scaleway.com/understanding-the-different-types-of-storage/
 
 **Site Reliability Engineering (SRE):**    https://sre.google/
 
