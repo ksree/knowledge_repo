@@ -7,6 +7,7 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 **OSI Netoworking model, great explanation:**  https://www.youtube.com/watch?v=vv4y_uOneC0
 
 **Types of Storage:** https://blog.scaleway.com/understanding-the-different-types-of-storage/
+**Google Cloud Storage Options:**  https://cloud.google.com/compute/docs/disks/
 
 **Site Reliability Engineering (SRE):**    https://sre.google/
 
@@ -15,3 +16,4 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 **GCP App hosting opitons:**  https://cloud.google.com/hosting-options
 
 **Google ML Coke Usecase:**  https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html
+
