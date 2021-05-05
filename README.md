@@ -4,6 +4,8 @@ Great articles, resources...
 **A must read on Distributed systems:**
 https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/
 
+**OSI Netoworking model, great explanation:**  https://www.youtube.com/watch?v=vv4y_uOneC0
+
 
 **Site Reliability Engineering (SRE):**    https://sre.google/
 
