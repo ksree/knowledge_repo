@@ -32,3 +32,4 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 
 **Google ML Coke Usecase:**  https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html
 
+**GCP Cloud Network Flowchart:** https://cloud.google.com/network-tiers
