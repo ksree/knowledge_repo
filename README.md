@@ -10,6 +10,8 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 
 **DNSSEC:** https://www.namecheap.com/support/knowledgebase/article.aspx/9717/2232/what-is-dnssec/  https://www.youtube.com/watch?v=MrtsKTC3KDM 
 
+**SDN (Software Defined Networking): **  https://networklessons.com/cisco/ccna-routing-switching-icnd2-200-105/introduction-to-sdn-software-defined-networking
+
 **Anycast IP:**  https://www.keycdn.com/support/anycast
 
 **Types of Storage:** https://blog.scaleway.com/understanding-the-different-types-of-storage/
