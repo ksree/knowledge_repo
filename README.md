@@ -34,6 +34,8 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 
 **GCP Cloud Network Flowchart:** https://cloud.google.com/network-tiers
 
+**GCP Cloud NAT:** https://www.youtube.com/watch?v=bmaarG0IkH8
+
 **GCP Choosing a load balancer:** https://cloud.google.com/load-balancing/docs/choosing-load-balancer
 
 **GCP CLoud Endpoints:** https://cloud.google.com/endpoints/docs/openapi/architecture-overview
