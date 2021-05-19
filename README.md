@@ -39,3 +39,5 @@ https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems
 **GCP Choosing a load balancer:** https://cloud.google.com/load-balancing/docs/choosing-load-balancer
 
 **GCP CLoud Endpoints:** https://cloud.google.com/endpoints/docs/openapi/architecture-overview
+
+**Mananged Instance Group Rolling updates:** https://cloud.google.com/compute/docs/instance-groups/rolling-out-updates-to-managed-instance-groups
